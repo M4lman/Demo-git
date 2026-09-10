@@ -6,5 +6,6 @@ class Program
     {
         Console.WriteLine("Hello Git!");
         Account nisse = new();
+        Console.WriteLine("Alfred was here!");
     }
 }
